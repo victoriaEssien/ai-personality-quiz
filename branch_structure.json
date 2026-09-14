@@ -1,0 +1,15 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "claude/linear-project-planning-rsv9t6",
+    "main"
+  ],
+  "parent": {
+    "claude/linear-project-planning-rsv9t6": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "claude/linear-project-planning-rsv9t6"
+  ]
+}
